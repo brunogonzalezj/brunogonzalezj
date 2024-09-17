@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brunogonzalezj
+- 👀 I’m interested in web app development and projects.
+- 🌱 I’m currently learning react and nextjs
+- 💞️ I’m looking to collaborate on web app delevopment
+- 📫 How to reach me: IG:brunogonzalezj 
